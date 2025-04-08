@@ -4,9 +4,9 @@
 Desenvolver um sistema de segurança residencial utilizando tecnologias de Internet das Coisas (IoT), que combine sensores de presença PIR, câmeras IP e uma fechadura inteligente. O sistema será capaz de:
 
 - Monitorar a parte externa da residência com uma câmera inteligente.  
-- Detectar a presença de intrusos na parte interna com sensores PIR.  
+- Detectar a presença na parte interna com sensores PIR.  
 - Controlar o acesso por meio de uma fechadura inteligente.  
-- Registrar imagens de pessoas que conseguirem passar pela porta, mesmo após o disparo dos sensores.  
+- Registrar imagens de pessoas que conseguirem passar pela porta com o disparo dos sensores.  
 
 ---
 
@@ -43,7 +43,7 @@ Desenvolver um sistema de segurança residencial utilizando tecnologias de Inter
 
 ### 🔐 3. Controle de Acesso
 - A fechadura FR 101 atua como primeira barreira  
-- Caso invadida, sensores PIR ativam o sistema e a câmera registra a ação  
+- Caso ultrapassada, sensores PIR ativam o sistema e a câmera registra a ação  
 
 ---
 
